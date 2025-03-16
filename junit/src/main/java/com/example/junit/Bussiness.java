@@ -3,6 +3,8 @@ package com.example.junit;
 public class Bussiness {
 
 	public static void checkCondition(String input) {
+		
+		System.out.println("Executing checkCondition");
 		if (input.equals("QA")) {
 			System.out.println("QA");
 		} else if (input.equals("Dev")) {
