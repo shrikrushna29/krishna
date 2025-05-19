@@ -15,6 +15,7 @@ public class Application {
 		
 		
 		System.out.println("App started "+new Date()	+ "AAA");
+		System.out.println("hello world");
 	}
 
 }
